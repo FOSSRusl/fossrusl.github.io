@@ -1,5 +1,4 @@
 ### Hi there 👋
-![RUSL FOSS Logo](https://github.com/FOSSRusl/fosslogo/blob/main/117342246_154540922943530_7850793474753972793_o.png)
 # RUSL - Rajarata University Of Sri Lanka 
 
 
