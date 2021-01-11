@@ -44,7 +44,7 @@
     $mail->SMTPSecure = 'tls'; */  
 
     $mail->setFrom($_POST['email'],$_POST['name']);
-    $mail->addAddress("fossrajarata@gmail.com");
+    $mail->addAddress("foss.rajarata@gmail.com");
     $mail->isHTML(true);
     $mail->Subject='Form Submission From Web';
     $mail->Body='<h3>Name :'.$_POST['name'].'<br> Email: '.$_POST['email'].'<br>Message: '.$_POST['message'].'</h3>';;
