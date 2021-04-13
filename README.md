@@ -17,7 +17,7 @@
 
 ## How to join?
 
-- Go to [Foss Community - RUSL](https://fossrusl.github.io/) official website
+- Go to [Foss Community - RUSL](https://fossrusl.wordpress.com/) official website
 - Click on the [Register](https://fossrajarata.typeform.com/to/LGFIUjpk) button 
 - Now fill the form and submit.
 
