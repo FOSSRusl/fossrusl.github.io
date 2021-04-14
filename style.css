@@ -164,7 +164,7 @@ body{
     background: #21385B;
     color: white;
     animation: none;
-    text-decoration: none;
+    text-decoration: bold;
     transition: all 0.5s;
 }
 
