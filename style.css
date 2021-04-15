@@ -70,7 +70,7 @@ body{
 #myCarousel .carousel-inner {
     background-size: cover;
     background-position: bottom;
-    height: 100vh;
+    height: 900px;
 }
 
 #myCarousel .carousel-control.left, .carousel-control.right{
