@@ -69,7 +69,7 @@ body{
 
 #myCarousel .carousel-inner {
     background-size: cover;
-    background-position: bottom;
+    background-position:bottom;
     height: auto;
 }
 
@@ -122,15 +122,15 @@ body{
 
 #myCarousel .carousel-caption #slider-logo{
     position: absolute;
-    top: 27%;
+    top: 25%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
 
 #myCarousel .carousel-caption h1{
     font-size: 48px;
-    font-weight: 300;
-    margin-bottom: 20px;
+    font-weight: 300px;
+    margin-bottom: 10px;
 }
 
 #myCarousel .carousel-caption p{
@@ -143,16 +143,16 @@ body{
     font-size: 16px;
     font-weight: 100;
     padding: 10px 30px;
-    border: 1px solid;
+    border: 2px solid;
     background: white;
     cursor: pointer;
-    margin-top: 48px;
+    margin-top: 38px;
     border-radius: 50px;
     text-transform: uppercase;
 }
 
 .buttons .btn {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     margin-right: 13px;
 }
 
@@ -171,8 +171,8 @@ body{
 }
 
 .social-menu ul{
-    position: absolute;
-    top: 85%;
+    position: sticky;
+    top: 80%;
     left: 50%;
     padding: 0;
     margin: 0;
@@ -197,8 +197,8 @@ body{
 }
 
 .social-menu ul li a{
-    position: relative;
-    display: block;
+    position:static;
+    display:inline-block;
     width: 60px;
     height: 60px;
     border-radius: 50px;
@@ -225,13 +225,16 @@ body{
 }
 
 .social-menu ul li:nth-child(4) a:hover{
-    background-color: #dd4b39;
+    background-color: #525050;
 }
 
 .social-menu ul li:nth-child(5) a:hover{
-    background-color: #0077B5;
+    background-color: #f80a0a;
 }
-        
+ 
+.social-menu ul li:nth-child(6) a:hover{
+    background-color: #1343c7;
+}
 
 
 @media screen and (max-width:850px){
